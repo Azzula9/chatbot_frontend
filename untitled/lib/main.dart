@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'conversations_page.dart';
+import 'conversations_list/conversations_page.dart';
 
 void main() {
   runApp(MyApp());
